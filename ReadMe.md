@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡CodeVeronica Alerts - Fullstack .NET Project {API, Desktop, Mobile, Web, Social Network Bot}, currently in development.
+⚡CodeVeronica Alerts - Fullstack .NET Project {REST API, Desktop, Mobile, Web, Social Network Bot}, currently in development.
 
 
 ## 🌐 Socials:
